@@ -4335,6 +4335,8 @@ self.C3_JsPropNameTable = [
 	{Browser: 0},
 	{GameBg: 0},
 	{Sprite: 0},
+	{LoaderLogo: 0},
+	{전체이용가_등급: 0},
 	{FSpot: 0},
 	{FCircle: 0},
 	{FLine: 0},
